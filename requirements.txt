@@ -1,6 +1,7 @@
 streamlit
-deepface
-opencv-python-headless
-tf-keras
+transformers
+torch
+torchvision
 pillow
 numpy
+mediapipe
